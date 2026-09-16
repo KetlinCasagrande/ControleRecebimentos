@@ -5,6 +5,7 @@ Sistema desktop para controle de recebimentos e movimentações de caixa, desenv
 O projeto foi criado para facilitar o registro e acompanhamento de valores recebidos, permitindo organizar as movimentações por forma de pagamento e consultar o histórico de operações.
 
 ✨ Funcionalidades
+
 💵 Registro de recebimentos
 💳 Controle por forma de pagamento:
 PIX
