@@ -17,16 +17,10 @@ Dinheiro
 📊 Consulta e organização dos recebimentos
 💾 Armazenamento local dos dados
 🖥️ Interface gráfica desktop
+
+
 🛠️ Tecnologias utilizadas
 Python
 PySide6 — interface gráfica
 SQLite — banco de dados local
-📂 Estrutura do projeto
-MeuCaixa/
-│
-├── app.py
-├── banco.db
-├── ...
-└── README.md
 
-A estrutura pode variar conforme a versão do projeto.
