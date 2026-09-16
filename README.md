@@ -7,17 +7,26 @@ O projeto foi criado para facilitar o registro e acompanhamento de valores receb
 ✨ Funcionalidades
 
 💵 Registro de recebimentos
+
 💳 Controle por forma de pagamento:
-PIX
-Cartão
+PIX,
+Cartão e
 Dinheiro
+
 📅 Registro por data
+
 📋 Histórico de movimentações
+
 ✏️ Edição de lançamentos
+
 🗑️ Exclusão de registros
+
 📊 Consulta e organização dos recebimentos
+
 💾 Armazenamento local dos dados
+
 🖥️ Interface gráfica desktop
+
 
 
 🛠️ Tecnologias utilizadas
